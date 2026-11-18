@@ -1,46 +1,43 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070a17,45:141a33,80:3b2f14,100:c9a227&height=240&section=header&text=alaa%20aly&fontSize=68&fontColor=f1e4c3&fontAlignY=38&desc=ai%20engineer%20%E2%80%A2%20witch%20of%20neural%20networks%20%F0%9F%AA%84&descAlignY=60&descSize=20&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050807,40:0d2416,75:1a472a,100:5d7a68&height=240&section=header&text=alaa%20aly&fontSize=68&fontColor=d9dde0&fontAlignY=38&desc=ai%20engineer%20%F0%9F%90%8D&descAlignY=60&descSize=22&animation=twinkling" width="100%" />
 
 <p align="center">
   <a href="https://github.com/Alaa-Alyy">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=2800&pause=800&color=C9A227&center=true&vCenter=true&width=700&lines=Lumos+%E2%9C%A8+...+hi%2C+i'm+alaa;Accio+dataset!+%F0%9F%93%9C;Wingardium+Leviosa+...+my+accuracy+%F0%9F%93%88;teaching+ai+the+magic+of+sign+language+%F0%9F%A4%9F;I+solemnly+swear+my+code+compiles+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=2800&pause=800&color=A8B3AC&center=true&vCenter=true&width=680&lines=hi%2C+i'm+alaa+aly+%F0%9F%91%8B;ai+engineer;computer+vision+%E2%80%A2+deep+learning+%E2%80%A2+nlp;building+an+egyptian+sign+language+translator+%F0%9F%A4%9F" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alaa-Alyy&label=owls%20received&color=c9a227&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/magic%20level-wizard%20%F0%9F%AA%84-141a33?style=flat-square" />
-  <img src="https://img.shields.io/badge/powered%20by-coffee%20%26%20butterbeer-3b2f14?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Alaa-Alyy&label=profile%20views&color=1a472a&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/house-slytherin%20%F0%9F%90%8D-1a472a?style=flat-square" />
+  <img src="https://img.shields.io/badge/theme-dark%20only-0d1117?style=flat-square" />
 </p>
 
 ---
 
-### 🧙‍♀️ the sorting hat says...
+### 🐍 about me
 
 ```python
-class AlaaAly(Witch):
-    house      = "still being sorted, the hat is training on my commits 🎩"
-    wand       = "python, core of pytorch, 11 inches, surprisingly flexible"
-    patronus   = "a tiny neural network 🧠✨"
-    role       = "ai engineer"
-    main_quest = "make technology speak every language, even the one spoken with hands 🤟"
-    subjects   = ["computer vision", "deep learning", "nlp", "on-device ai"]
-
-    def cast(self, spell):
-        return "it works ✨" if spell == "debug" else "*loss curve goes brrr*"
+class AlaaAly:
+    role      = "ai engineer"
+    house     = "slytherin 🐍"
+    focus     = ["computer vision", "deep learning", "nlp", "on-device ai"]
+    currently = "building a two-way egyptian sign language translator 🤟"
+    learning  = ["sequence models", "model compression", "arabic nlp"]
+    goal      = "ai that helps people communicate"
 ```
 
 ---
 
-### 📜 currently brewing in my cauldron
+### 🔥 what i'm working on
 
-- 🤟 an app where a deaf person signs and the phone **speaks**, and a hearing person talks and a **3d avatar signs back**
-- 🔮 teaching mediapipe to read hands and faces like a divination class
-- 🧪 potions in progress: sequence models, model compression, arabic nlp
-- 📉 defending against the dark arts of overfitting
+- 🤟 a mobile app where a deaf person **signs** and the phone **speaks**, and a hearing person **talks** and a 3d avatar **signs back**
+- 👁️ hand, body, and face tracking with mediapipe
+- 📱 running ai models directly on the phone, offline
+- 🗣️ egyptian arabic speech and language understanding
 
 ---
 
-### 🪄 my spellbook
+### 🛠️ tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,anaconda&perline=6&theme=dark" />
@@ -50,46 +47,42 @@ class AlaaAly(Witch):
 
 ---
 
-### 🏰 the main quest
+### 🚀 featured project
 
-> **two-way egyptian sign language translator** 🤟 *(grad project, in progress)*
+> **two-way egyptian sign language translator** 🤟 *(graduation project, in progress)*
 >
-> 🖐️ sign → the app speaks a natural egyptian arabic sentence
-> 🗣️ speak → a 3d avatar signs it back, in full smooth sentences
-> ⚡ runs on the phone, works offline, privacy first
-> 📖 a sign dictionary the community writes together, like a living spellbook
+> 🖐️ **sign → speech:** the app recognizes the signed sentence and speaks it in egyptian arabic
+> 🗣️ **speech → sign:** the app understands what was said and a 3d avatar signs it back
+> ⚡ runs on the phone, works offline, keeps video private
+> 📖 a sign dictionary the community helps build
 
 ---
 
-### 🔮 things the prophet would print about me
+### 🎲 fun facts
 
-- my profile pic robot is made of old tvs and scrap metal. transfiguration, but make it sustainable 🤖♻️
-- i debug with print statements. it's ancient magic and it works
-- my gpu has seen things no muggle should see
+- the robot in my profile picture is made of old tvs and scrap metal 🤖♻️
+- i debug with print statements and i'm not sorry
+- dark mode only. always. 🌑
 
 ---
 
-### ⚡ the marauder's stats
+### 📊 github stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alaa-Alyy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0b0f1f&title_color=c9a227&icon_color=c9a227&text_color=f1e4c3&ring_color=c9a227&custom_title=spells%20cast%20this%20year%20%E2%9C%A8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaa-Alyy&layout=compact&hide_border=true&bg_color=0b0f1f&title_color=c9a227&text_color=f1e4c3&custom_title=languages%20of%20magic" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alaa-Alyy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0f0c&title_color=8fbf9f&icon_color=2e8b57&text_color=c9ced1&ring_color=2e8b57" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaa-Alyy&layout=compact&hide_border=true&bg_color=0a0f0c&title_color=8fbf9f&text_color=c9ced1" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alaa-Alyy&hide_border=true&background=0B0F1F&ring=C9A227&fire=C9A227&currStreakNum=F1E4C3&sideNums=F1E4C3&currStreakLabel=C9A227&sideLabels=B8A97F&dates=7D7560&stroke=2A2F4A" />
+  <img src="https://streak-stats.demolab.com?user=Alaa-Alyy&hide_border=true&background=0A0F0C&ring=2E8B57&fire=8FBF9F&currStreakNum=D9DDE0&sideNums=D9DDE0&currStreakLabel=8FBF9F&sideLabels=A8B3AC&dates=6B7A71&stroke=1A472A" />
 </p>
 
 ---
 
-### 🐍 a slytherin snake is eating my commits
+### 🐍 contribution snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alaa-Alyy/Alaa-Alyy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alaa-Alyy/Alaa-Alyy/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Alaa-Alyy/Alaa-Alyy/output/github-snake.svg" />
-</picture>
+<img alt="contribution snake" src="https://raw.githubusercontent.com/Alaa-Alyy/Alaa-Alyy/output/github-snake-dark.svg" />
 
-<p align="center"><sub>🦉 thanks for visiting · mischief managed ✨</sub></p>
+<p align="center"><sub>thanks for visiting 🖤 · mischief managed ✨</sub></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,20:3b2f14,55:141a33,100:070a17&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5d7a68,25:1a472a,60:0d2416,100:050807&height=110&section=footer" width="100%" />

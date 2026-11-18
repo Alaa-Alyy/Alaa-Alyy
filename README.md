@@ -85,7 +85,7 @@ class AlaaAly:
 
 ---
 
-### 🐍 the snake is eating my commits
+### 🐍 my contribution graph, slytherin edition
 
 <img alt="contribution snake" src="https://raw.githubusercontent.com/Alaa-Alyy/Alaa-Alyy/output/github-snake-dark.svg" />
 

@@ -85,7 +85,7 @@ class AlaaAly:
 
 ---
 
-### 🐍 my contribution graph, slytherin edition
+### 🐍 sssee what i've been coding
 
 <img alt="contribution snake" src="https://raw.githubusercontent.com/Alaa-Alyy/Alaa-Alyy/output/github-snake-dark.svg" />
 

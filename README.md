@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,55:2b2d31,100:8a5a3b&height=220&section=header&text=alaa%20aly&fontSize=64&fontColor=e8e4dc&fontAlignY=40&desc=ai%20engineer%20%E2%9A%99%EF%B8%8F%20%E2%9C%A8&descAlignY=62&descSize=20&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:2b2d31,75:8a5a3b,100:c47a3d&height=240&section=header&text=alaa%20aly&fontSize=68&fontColor=e8e4dc&fontAlignY=38&desc=ai%20engineer%20%E2%9A%99%EF%B8%8F%20%E2%9C%A8&descAlignY=60&descSize=22&animation=twinkling" width="100%" />
 
 <p align="center">
   <a href="https://github.com/Alaa-Alyy">

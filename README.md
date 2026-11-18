@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/powered%20by-coffee%20%26%20gpus-0d1117?style=flat-square" />
 </p>
 
+<p align="center">
+  <img src="assets/terminal.svg" width="640" alt="terminal animation: training a slytherin model" />
+</p>
+
 ---
 
 ### 🫧 whoami (about me)
@@ -69,6 +73,14 @@ class AlaaAly:
 - i debug with print statements and i'm not sorry
 - my gpu has seen things
 - slytherin, but the kind that uses ambition for good 🐍🖤
+
+---
+
+### 😂 random dev joke (refresh for a new one)
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230a0f0c&textColor=%23c9ced1&qColor=%238fbf9f&aColor=%232e8b57&borderColor=%231a472a" alt="random dev joke" />
+</p>
 
 ---
 
